@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+#home{
+    color: brown;
+    margin: 20px;
+}
+#twitter{
+    color: aqua;
+    margin: 20px;
+}
+#yt{
+    color: red;
+    margin: 20px;
+}
+.icons{
+    margin: 30px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.icons i:hover{
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+    box-shadow:3px 3px 5px red;
+    border-radius: 5px;
+}
+

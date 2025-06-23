@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 30px;
+    width: 75px;
+    height: 75px;
+    margin: auto;
+}
+
+#box1{
+    background-color: aqua;
+    /* margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 0px; */
+}
+
+#box2{
+    background-color: ivory;
+    /* margin-left: 70px;
+    margin-top: 1px; */
+}

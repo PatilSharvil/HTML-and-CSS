@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="index.php" method="POST" enctype="multipart/form-data">
+        <label for="username">username : </label>
+        <input type="text" id="username" placeholder="user name" minlength="3" maxlength="10" required>
+        <br>
+
+        <label for="password">Password : </label>
+        <input type="password" name="password" id="password" required minlength="5" maxlength="12" >
+        <br>
+        <label for="email">Email : </label>
+        <input type="email" name="email" id="email" placeholder="abc@gmail.com">
+        <br>
+        <label for="phonenum">Phone Number : </label>
+        <input type="tel" name="" id="">
+        <br>
+        <label for="Bday">Birthday : </label>
+        <input type="date" name="" id="">
+        <br>
+        <label for="Title">Title : </label>
+        <label for="mr">MR</label>
+        <input type="radio">
+        MRS
+        <input type="radio" name="" id="">
+        <br>
+        <label for="">Payment : </label>
+        <select name="" id="">
+            <option value="">Visa</option>
+            <option value="">Creadit card</option>
+        </select>
+        <br>
+        <label for="">Everythings ok : </label>
+        <input type="checkbox" name="" id="">
+        <br>
+        <label for="">Comments : 
+        </label>
+        <textarea name="" id=""></textarea>
+        <br>
+        <label for="">File : </label>
+        <input type="file" name="" id="" accept="file/png">
+        <br>
+
+        <input type="reset"> <br>
+        <input type="submit" name="" id="">
+    </form>
+</body>
+</html>

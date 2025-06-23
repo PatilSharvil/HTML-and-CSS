@@ -1,0 +1,17 @@
+button:hover{
+    background-color: yellow;
+    font-size: 30px;
+}
+
+button:active{
+    background-color: red;
+    font-size: medium;
+}
+
+li:not(:hover){
+    background-color: yellow;
+}
+
+li:nth-child(2n+1){
+    background-color: red;
+}

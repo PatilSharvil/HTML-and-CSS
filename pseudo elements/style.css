@@ -1,0 +1,22 @@
+h1::first-letter{
+    font-size: 100px;
+    font-style: italic;
+}
+p::first-line{
+    background-color: aqua;
+}
+p::selection{
+    background-color: black;
+    color: white;
+}
+#fruit li::before{
+    content: "✅";
+}
+#mng::after{
+    content: "🥭";
+}
+
+#fruit li::marker{
+    content: "✔";
+    color: palegreen;
+}
