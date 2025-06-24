@@ -50,6 +50,13 @@ This repository contains a comprehensive collection of HTML and CSS examples and
    - `Combinators/` - 🧬 CSS selector combinations
    - `float/` - 🏊 Float-based layouts with images
 
+## 🏗️ Projects
+
+### 🛒 Amazon Clone (`Amazon's Clone using html and css/`)
+- A simple static clone of the Amazon homepage built with HTML and CSS
+- Features a navigation bar, search bar, product cards, and a styled footer
+- Demonstrates layout, flexbox, and basic responsive design
+
 ## 🌟 Key Features
 
 - 🚀 Progressive learning path from basic to advanced concepts
@@ -57,6 +64,7 @@ This repository contains a comprehensive collection of HTML and CSS examples and
 - 🕹️ Interactive elements and components
 - 📱 Responsive design patterns
 - 🆕 Modern CSS techniques
+- 🛒 Includes a real-world project: Amazon homepage clone
 
 ## 🛠️ How to Use
 
